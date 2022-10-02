@@ -375,7 +375,9 @@
 
 <div class="footer">
         <h2>&copy Copyrigth 2023</h2>
-        <p>franck sefu kaunga +243 973359746</p>
+        <p>franck sefu kaunga +243 973359746
+            <br>Je suis le gars de miss Stella
+        </p>
 </div>
 <script>
     function verificatN(){
