@@ -374,8 +374,8 @@
 
 
 <div class="footer">
-        <h2>&copy Copyrigth 2022</h2>
-        <p>franck sefu +243 973359746</p>
+        <h2>&copy Copyrigth 2023</h2>
+        <p>franck sefu kaunga +243 973359746</p>
 </div>
 <script>
     function verificatN(){
