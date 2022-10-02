@@ -69,13 +69,14 @@
     <a href="detteClient.php">Dettes clients</a>
     <a href="detteEntreprise.php">Dette Entreprise</a>
     <a href="etats.php" >Les Etats</a>
-    <a href="caisse.php" >Caisse</a>
+    <a href="caisse.php" >La caisse</a>
 </div>
 
 <div class="row">
     <div class="column1">
     <?php // cacher et montre les formulaires d insertion et modification avec la partie de 25%?>
         <ul>
+            <!-- La modification de la premiere application avec ajout d un peu de BOOTST-->
         <li><button class="btn btn-primary" type="button" 
             onclick="document.getElementById('nouvelPP').style.display='block';
             document.getElementById('modify').style.display='none';document.getElementById('delet').style.display='none';">Nouveau</button></li>
