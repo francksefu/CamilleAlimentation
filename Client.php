@@ -23,7 +23,8 @@
             color: #000;
             padding: 14px 8px;
             text-decoration: none;
-            width: 90%;
+            width: 100%;
+            /* c est cette largeur que j ai modifier*/
             border: none;
             border-radius: 6px;
             font-size: 20px;
