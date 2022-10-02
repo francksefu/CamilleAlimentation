@@ -63,7 +63,7 @@
     <a href="accueilEntreprise.php">Accueil</a>
     <a href="produitb.php" >Produit</a>
     <a href="bonusPerte.php" >Bonus et Perte</a>
-    <a href="sortie.php">Sortie</a>
+    <a href="sortie.php">Vos Sorties</a>
     <a href="diminution.php">Diminution</a>
     <a href="Client.php" class="active">Client</a>
     <a href="detteClient.php">Dettes clients</a>
@@ -199,6 +199,7 @@
         </div>
         <div class="tableau" style="background-color:#ddd;">
             <?php
+            // Essayons aussi sa ... 
                 include 'connexion.php';
                         
                 $reqSql= ("SELECT idClient, NomClient, Telephone FROM Client order by NomClient ");
