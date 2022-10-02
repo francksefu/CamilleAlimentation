@@ -23,7 +23,7 @@
             color: #000;
             padding: 14px 8px;
             text-decoration: none;
-            width: 100%;
+            width: 90%;
             border: none;
             border-radius: 6px;
             font-size: 20px;
