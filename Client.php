@@ -29,7 +29,7 @@
             border-radius: 6px;
             font-size: 20px;
             border-radius: 20px;
-            margin: 10px;
+            margin: 15px;
 
         }
         th{
